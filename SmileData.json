@@ -1,0 +1,470 @@
+{
+"layouts": {
+  "Arrows": {
+    "file": "Smiles/Arrows.png",
+    "row": 4,
+    "col": 3,
+    "association": "↖↑↗←🚫→↙↓↘↔™↕"
+  },
+  "Cats":{
+    "file": "Smiles/Cats.png",
+    "row": 2,
+    "col": 5,
+    "association": "🐱😺😸😹😻😼😽🙀😿😾"
+  },
+  "Faces":{
+    "file": "Smiles/Faces.png",
+    "row": 5,
+    "col": 5,
+    "association": "🙂😵😗😙😚😠😐😑😆😏😒😌😔😞😍🤩😎😟🤔🙃😈👿👃👀👁"
+  },
+  "Genders":{
+    "file": "Smiles/Genders.png",
+    "row": 3,
+    "col": 4,
+    "association": "♂♀⚧⚥⚢⚣⚤⚦☿♁⚨⚩"
+  },
+  "Hearts":{
+    "file": "Smiles/Hearts.png",
+    "row": 3,
+    "col": 4,
+    "association": "❤💙💚💛💜🖤💔💖💗💕🧡🤍"
+  }
+},
+"hints":{
+  "🙂": [
+    "face",
+    "tiny",
+    "tinyface",
+    "slight_smile"
+  ],
+  "😵": [
+    "derp",
+    "dizzy_face"
+  ],
+  "😗": [
+    "kiss"
+  ],
+  "😙": [
+    "kiss_smile",
+    "kissing_smiling_eyes"
+  ],
+  "😚": [
+    "kiss_closed_eyes"
+  ],
+  "😠": [
+    "angry"
+  ],
+  "😐": [
+    "neutral",
+    "neutral_face"
+  ],
+  "😑": [
+    "expressionless"
+  ],
+  "😆": [
+    "laughing"
+  ],
+  "😏": [
+    "smirk"
+  ],
+  "😒": [
+    "unamused"
+  ],
+  "😌": [
+    "relieved"
+  ],
+  "😔": [
+    "pensive"
+  ],
+  "😞": [
+    "disappointed"
+  ],
+  "😍": [
+    "heart_eyes"
+  ],
+  "🤩": [
+    "star_eyes",
+    "star_struck"
+  ],
+  "😎": [
+    "cool",
+    "sunglasses_face"
+  ],
+  "😟": [
+    "worried"
+  ],
+  "🤔": [
+    "thinking"
+  ],
+  "🙃": [
+    "upside_down"
+  ],
+  "😈": [
+    "evil",
+    "smiling_imp"
+  ],
+  "👿": [
+    "imp",
+    "angry_evil"
+  ],
+  "👃": [
+    "nose",
+    "c"
+  ],
+  "👀": [
+    "eyes"
+  ],
+  "👁": [
+    "eyes_r",
+    "eyes_right"
+  ],
+  "🐱": [
+    "cat"
+  ],
+  "😺": [
+    "smiley_cat"
+  ],
+  "😸": [
+    "smile_cat"
+  ],
+  "😹": [
+    "joy_cat"
+  ],
+  "😻": [
+    "heart_eyes_cat"
+  ],
+  "😼": [
+    "smirk_cat"
+  ],
+  "😽": [
+    "kissing_cat"
+  ],
+  "🙀": [
+    "scream_cat"
+  ],
+  "😿": [
+    "cryingcat",
+    "crying_cat_face"
+  ],
+  "😾": [
+    "pouting_cat"
+  ],
+  "❤": [
+    "heart"
+  ],
+  "💙": [
+    "blue_heart",
+    "meno"
+  ],
+  "💚": [
+    "green_heart",
+    "chira"
+  ],
+  "💛": [
+    "yellow_heart"
+  ],
+  "💜": [
+    "purple_heart",
+    "lavanda",
+    "orchid"
+  ],
+  "🖤": [
+    "black_heart"
+  ],
+  "💔": [
+    "broken_heart"
+  ],
+  "💖": [
+    "sparkling_heart",
+    "pink_lumen"
+  ],
+  "💗": [
+    "heartpulse"
+  ],
+  "💕": [
+    "two_hearts",
+    "velenor"
+  ],
+  "🧡": [
+    "orange_heart",
+    "stuben",
+    "stubenhocker"
+  ],
+  "🤍": [
+    "white_heart",
+    "industrialice",
+    "goodly"
+  ],
+  "🥌": [
+    "rock",
+    "stone"
+  ],
+  "🍕": [
+    "pizza"
+  ],
+  "🍎": [
+    "apple"
+  ],
+  "🍏": [
+    "gapple",
+    "green_apple"
+  ],
+  "🍊": [
+    "orange",
+    "tangerine"
+  ],
+  "🍐": [
+    "pear"
+  ],
+  "🥭": [
+    "mango"
+  ],
+  "🍋": [
+    "lemon"
+  ],
+  "🥕": [
+    "carrot"
+  ],
+  "🍇": [
+    "grapes"
+  ],
+  "🍌": [
+    "banana"
+  ],
+  "⛏": [
+    "pick"
+  ],
+  "🔨": [
+    "hammer"
+  ],
+  "🖌️": [
+    "brush",
+    "paint_brush"
+  ],
+  "🏑": [
+    "crowbar"
+  ],
+  "🪄": [
+    "wand"
+  ],
+  "🧰": [
+    "toolbox"
+  ],
+  "🏠": [
+    "house"
+  ],
+  "🥚": [
+    "egg"
+  ],
+  "💮": [
+    "flower",
+    "white_flower"
+  ],
+  "🌸": [
+    "cherry_blossom"
+  ],
+  "🍬": [
+    "candy"
+  ],
+  "🍡": [
+    "candy_cane"
+  ],
+  "🍭": [
+    "lollipop"
+  ],
+  "⭐": [
+    "star"
+  ],
+  "🌟": [
+    "star2"
+  ],
+  "🌠": [
+    "shooting_star"
+  ],
+  "☄": [
+    "comet"
+  ],
+  "⚡": [
+    "zap"
+  ],
+  "❄": [
+    "snow",
+    "snowflake"
+  ],
+  "⛄": [
+    "snowpony",
+    "snowman",
+    "tio"
+  ],
+  "🏀": [
+    "pumpkin"
+  ],
+  "🎃": [
+    "jacko",
+    "jack_o_lantern"
+  ],
+  "🌲": [
+    "evergreen_tree",
+    "pinetree"
+  ],
+  "🎄": [
+    "christmas_tree"
+  ],
+  "🕯": [
+    "candle"
+  ],
+  "🎅": [
+    "santa_hat",
+    "santa_claus"
+  ],
+  "💐": [
+    "holly"
+  ],
+  "🌿": [
+    "mistletoe"
+  ],
+  "🔔": [
+    "bell"
+  ],
+  "🎲": [
+    "die",
+    "dice",
+    "game_die"
+  ],
+  "✨": [
+    "sparkles"
+  ],
+  "🎁": [
+    "gift",
+    "present"
+  ],
+  "🎉": [
+    "tada",
+    "party",
+    "party_popper"
+  ],
+  "🎊": [
+    "confetti",
+    "confetti_ball"
+  ],
+  "🔥": [
+    "fire"
+  ],
+  "🎵": [
+    "musical_note",
+    "wander"
+  ],
+  "🎶": [
+    "notes"
+  ],
+  "🌈": [
+    "rainbow"
+  ],
+  "👣": [
+    "hooves",
+    "hoof"
+  ],
+  "🐾": [
+    "paws",
+    "paw",
+    "feet"
+  ],
+  "👑": [
+    "crown"
+  ],
+  "🎩": [
+    "top_hat"
+  ],
+  "💎": [
+    "gem"
+  ],
+  "🌹": [
+    "rose"
+  ],
+  "☘": [
+    "shamrock",
+    "clover"
+  ],
+  "🍀": [
+    "four_leaf_clover"
+  ],
+  "🍪": [
+    "cookie"
+  ],
+  "📕": [
+    "book"
+  ],
+  "📗": [
+    "green_book"
+  ],
+  "📘": [
+    "blue_book"
+  ],
+  "📚": [
+    "books"
+  ],
+  "🎧": [
+    "headphones"
+  ],
+  "📌": [
+    "pin",
+    "pushpin"
+  ],
+  "📍": [
+    "round_pin",
+    "round_pushpin"
+  ],
+  "🐴": [
+    "pony",
+    "fez",
+    "default",
+    "horse_face"
+  ],
+  "🦄": [
+    "unicorn"
+  ],
+  "🦓": [
+    "zebra"
+  ],
+  "🦌": [
+    "deer"
+  ],
+  "🦋": [
+    "butterfly"
+  ],
+  "🦇": [
+    "bat"
+  ],
+  "🕷": [
+    "spider"
+  ],
+  "👻": [
+    "ghost"
+  ],
+  "🐈": [
+    "cat2"
+  ],
+  "🦊": [
+    "fox"
+  ],
+  "🚫": [
+    "prohibit",
+    "no",
+    "no_entry_sign"
+  ],
+  "™": [
+    "tm"
+  ],
+  "♂": [
+    "male"
+  ],
+  "♀": [
+    "female"
+  ],
+  "⚧": [
+    "trans",
+    "transgender"
+  ]
+}
+}
